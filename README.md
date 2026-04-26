@@ -1,16 +1,18 @@
-## Hi there 👋
+# Howdy 🤠
 
-<!--
-**autumn-cabin329/autumn-cabin329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **autumn-cabin329**, a site reliability engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Looking to collaborate on open source
+- 🌱 Always learning new things
+- 🧠 Lifelong learner
+- 🔭 Currently working on personal side projects
+
+## Tech
+
+`Spring` `Flask` `Kafka` `Swift` `tmux`
+
+---
+
+_Monorepo believer._
